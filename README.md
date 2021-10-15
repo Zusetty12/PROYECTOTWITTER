@@ -13,3 +13,19 @@ En este repositorio vamos a realizar la calidad de software  la red social Twitt
 * Visualizar TimeLine
 
 
+## Caso de Uso
+![image](https://user-images.githubusercontent.com/64518589/137564297-e7979578-13f1-4f5d-8c63-8e22c16b4c0b.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
