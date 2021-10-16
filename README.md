@@ -25,6 +25,7 @@ que la principal característica de Twitter es que allí encuentramos informaci�
 
 ![image](https://user-images.githubusercontent.com/79756993/137603268-915ea15a-55f6-4879-8ade-070ad6725663.png)
 
+![image](https://user-images.githubusercontent.com/79756993/137603325-a4e6e170-2f4b-4a9d-9195-d207ef004a59.png)
 
 
 
