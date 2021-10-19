@@ -9,6 +9,9 @@ Cualquier persona puede crear una cuenta o perfil para compartir sus opiniones, 
 intereses, pero también, para estar informada(o) sobre todo lo que acontece en el mundo, ya
 que la principal característica de Twitter es que allí encuentramos información en tiempo real.
 
+![image](https://user-images.githubusercontent.com/64518589/137858040-67a3aff9-b6ff-44cc-b3f7-9633a91a638a.png)
+
+
 ## Requerimientos funcionales
 * Logeo
 * Log Out
