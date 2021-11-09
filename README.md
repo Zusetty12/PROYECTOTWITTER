@@ -16,7 +16,7 @@ que la principal característica de Twitter es que allí encuentramos informaci�
 * Logeo
 * Log Out
 * Crear Tweet
-* Crear Retweet
+* Realizar Retweet
 * Buscar Tweet
 * Responder Tweet
 * Eliminar Tweet
