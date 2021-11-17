@@ -34,7 +34,9 @@ que la principal característica de Twitter es que allí encuentramos informaci�
 
 ## Dashboard
 
-![image](https://user-images.githubusercontent.com/64518589/142092569-994b2cc7-654a-4b3a-842e-87fecc4e9832.png)
+![image](https://user-images.githubusercontent.com/64518589/142093437-067557d1-b9a8-49db-82f7-8bc366e6ff7b.png)
+
+![image](https://user-images.githubusercontent.com/64518589/142093420-be4f9f60-5177-4e78-a63b-45d013b39564.png)
 
 
 
